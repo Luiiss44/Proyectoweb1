@@ -1,0 +1,38 @@
+[
+  {
+    "nombre": "Pepe",
+    "email": "peperoll@gmail.com",
+    "password": "contraseñadepepe",
+    "edad": "20",
+    "ciudad": "Madrid",
+    "intereses": "Me gustan los coches",
+    "permitirRecibirOfertas": false
+  },
+  {
+    "nombre": "Pepe",
+    "email": "peperoll@gmail.com",
+    "password": "contraseñadepepe",
+    "edad": "20",
+    "ciudad": "Madrid",
+    "intereses": "Me gustan los coches",
+    "permitirRecibirOfertas": true
+  },
+  {
+    "nombre": "luis",
+    "email": "luis@gmail.com",
+    "password": "holacomoestas",
+    "edad": "32",
+    "ciudad": "Madrid",
+    "intereses": "Me gustan los coches",
+    "permitirRecibirOfertas": true
+  },
+  {
+    "nombre": "luis",
+    "email": "luis@gmail.com",
+    "password": "holacomoestas",
+    "edad": "32",
+    "ciudad": "Madrid",
+    "intereses": "Me gustan los coches",
+    "permitirRecibirOfertas": false
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "id": "",
+    "nombre": "Pepe",
+    "cif": "52345235",
+    "direccion": "calle loreto 56",
+    "email": "luis@gmail.com",
+    "password": "holacomoestas",
+    "telefono": "34623452345"
+  }
+]

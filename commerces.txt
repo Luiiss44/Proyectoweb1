@@ -1,0 +1,58 @@
+[
+  {
+    "nombre": "Pepe",
+    "cif": "52345235",
+    "direccion": "calle loreto 56",
+    "email": "peperoll@gmail.com",
+    "telefono": "34623452345"
+  },
+  {
+    "nombre": "Pepe",
+    "cif": "52345235",
+    "direccion": "calle loreto 56",
+    "email": "peperoll@gmail.com",
+    "telefono": "34623452345"
+  },
+  {
+    "nombre": "Pepe",
+    "cif": "52345235",
+    "direccion": "calle loreto 56",
+    "email": "peperoll@gmail.com",
+    "telefono": "34623452345"
+  },
+  {
+    "nombre": "Pepe",
+    "cif": "52345235",
+    "direccion": "calle loreto 56",
+    "email": "peperoll@gmail.com",
+    "telefono": "34623452345"
+  },
+  {
+    "nombre": "Pepe",
+    "cif": "52345235",
+    "direccion": "calle loreto 56",
+    "email": "peperoll@gmail.com",
+    "telefono": "34623452345"
+  },
+  {
+    "nombre": "Pepe",
+    "cif": "52345235",
+    "direccion": "calle loreto 56",
+    "email": "peperoll@gmail.com",
+    "telefono": "34623452345"
+  },
+  {
+    "nombre": "Pepe",
+    "cif": "52345235",
+    "direccion": "calle loreto 56",
+    "email": "peperoll@gmail.com",
+    "telefono": "34623452345"
+  },
+  {
+    "nombre": "Pepe",
+    "cif": "52345235",
+    "direccion": "calle loreto 56",
+    "email": "peperoll@gmail.com",
+    "telefono": "34623452345"
+  }
+]
